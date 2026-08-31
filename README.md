@@ -15,4 +15,4 @@ This diagram documents the physical and logical connection between a GL.iNet rou
 
 ## Diagram
 
-[Open the editable Draw.io diagram](./OPNsense%20GL-iNet%20Network%20Diagram.drawio)
+[Open the editable Draw.io diagram](https://github.com/Kin3o/Network-Diagram/blob/main/OPNsense%20GL-iNet%20Network%20Diagram.drawio.pdf)
