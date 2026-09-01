@@ -1,6 +1,6 @@
 # GL.iNet and OPNsense Network
 
-This diagram documents the physical and logical connection between a GL.iNet router, an OPNsense firewall, and downstream DHCP clients.
+This [diagram](https://github.com/Kin3o/Network-Diagram/blob/main/OPNsense%20GL-iNet%20Network%20Diagram.drawio.pdf) documents the physical and logical connection between a GL.iNet router, an OPNsense firewall, and downstream DHCP clients.
 
 ## Network flow
 
